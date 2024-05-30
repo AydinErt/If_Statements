@@ -1,6 +1,6 @@
  public static void main(String[] args) {
 
-       /*
+     
         //if statement
         int x = 5;
         int y = 5;
@@ -10,26 +10,26 @@
 
             System.out.println("x, y den buyuk");
             // sonuc false oldugu icin ciktida
-            // hic bir yazi cikmadi
+            // hic bir yazi cikmaz
         }
 
         if (x==y){
             System.out.println("x, y'ye esittir");
-            //dogru oldugu icin yazdirdi
+            //dogru oldugu icin yazdirir
         }
 if (z>y)
 {
     System.out.println(" z yden buyuk");
 }
 
-//task jonn 55 not aldi, 50 den buyuk ise tebrikler sinavi gectiniz yazdir
+//example: jonn 55 not aldi, 50 den buyuk ise tebrikler sinavi gectiniz yazdir
         int mark =55;
 if ( mark>50){
     System.out.println("Tebrikler Sinavi Gectiniz");
 }
-*/
-/*
-//task k=55.8, M=60.5, B=34 baraj 70 puan
+
+
+//example: k=55.8, M=60.5, B=34 baraj 70 puan
         double m = 60.5;
         double k = 85.8;
         double b = 84;
@@ -43,7 +43,7 @@ if ( mark>50){
 
 
 
-        //TASK
+        //example
         int ageOfMary=25;
         int ageOfJohn=ageOfMary+7;
         if(ageOfJohn%2==0){
@@ -51,8 +51,7 @@ if ( mark>50){
         }else{
             System.out.println("John'nun yasi tek");
         }
-*/
-/*
+
         //else if
         int x=3;
         if(x==2){
@@ -61,9 +60,8 @@ if ( mark>50){
             System.out.println("x is equal to 3");
         }else{
             System.out.println(x);
-*/
-/*
-            //TASK
+
+            //example
 
             int saat =25;
             if(saat<10 && saat >0){
@@ -75,9 +73,9 @@ if ( mark>50){
             }else{
                 System.out.println("Gecersiz Saat");
             }
-*/
 
-//TASK
+
+//example
 
         int math =101;
         if (math<50 && math >0){
